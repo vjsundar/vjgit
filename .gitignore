@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DemoWapp1/.vs/DemoWapp1/v15/Server/sqlite3/storage.ide
+*.lock
